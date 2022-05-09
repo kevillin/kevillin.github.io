@@ -15,7 +15,8 @@ body {
     font-style: italic;
 }
 
-#imagem {
+#imagem { 
+    /* Essa é a alteração para deixar a foto flutuante à esquerda */
     float: left;
     margin-right: 30px;
 }
