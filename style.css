@@ -1,7 +1,16 @@
 body {
     font-family: 'Oleo Script Swash Caps', cursive;
+    background-color: #F8F4E3;
 }
 #inprogress {
     font-family: 'Water Brush', cursive;
-    
+    font-weight: bold;
+    text-align: right;
+    color: red;
+}
+.nome {
+    text-align: center;
+}
+#redessociais {
+    font-style: italic;
 }
